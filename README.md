@@ -1,12 +1,8 @@
-- 👋 Hi, I’m @yash9921612776
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### Hi, I'm Yash 👋
 
-<!---
-yash9921612776/yash9921612776 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+.NET Developer with 1.8+ years of experience building healthcare and enterprise applications.
+
+- 💻 Working with: ASP.NET Core, C#, Entity Framework Core, SQL Server, REST APIs, Azure
+- 🏥 Domain experience: Healthcare (EMR, Billing, Patient Feedback Systems) and Institutional Management Systems
+- 🌱 Currently exploring: Cloud deployment with Azure, modern .NET Core development
+- 📫 Reach me: yashgulhane0210@gmail.com | [LinkedIn](https://www.linkedin.com/in/yashgulhane02/)
